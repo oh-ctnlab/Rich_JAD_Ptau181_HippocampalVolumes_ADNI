@@ -1,1 +1,1 @@
-# Rich-Oh_JAD_Ptau181_HippocampalSubfields_ADNI
+This repository contains the raw and processed data used for the paper titled "Distinctive volumetric associations between plasma p-tau181 and hippocampal formation structures across the Alzheimer’s disease continuum" by Adea Rich and Hwamee Oh. Journal of Alzheimer's Disease
